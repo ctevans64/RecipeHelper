@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-size: 1.2em;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+a {
+  color: white;
+  font-style: italic;
+}
+
+#attribution {
+  text-align: center;
+  background-color: gray;
+  color: white;
+  padding-bottom: 2px;
+}
+
+#recipe_root {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+li {
+  font-weight: 1.5em;
+}

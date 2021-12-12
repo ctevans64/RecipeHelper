@@ -1,0 +1,25 @@
+{
+    "name": "RecipeHelper",
+    "description": "Creates easy to read recipes from Big Apple News recipe site.",
+    "version": "0.1",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/images/baking16.png",
+            "32": "/images/baking32.png",
+            "48": "/images/baking48.png",
+            "128": "/images/baking128.png"
+        }
+    },
+    "icons": {
+        "16": "/images/baking16.png",
+        "32": "/images/baking32.png",
+        "48": "/images/baking48.png",
+        "128": "/images/baking128.png"
+    }
+}
